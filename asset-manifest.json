@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MVGDC/static/css/main.836be239.css",
-    "main.js": "/MVGDC/static/js/main.718d4f4e.js",
-    "static/media/home.png": "/MVGDC/static/media/home.95ffb5acf7001b57caeb.png",
-    "static/media/BhavanBalusu.jpg": "/MVGDC/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
-    "static/media/RohithMuthukumar.jpg": "/MVGDC/static/media/RohithMuthukumar.a9bc040808b019527dc0.jpg",
-    "static/media/BrandonXu.jpg": "/MVGDC/static/media/BrandonXu.c3364899513c96318603.jpg",
-    "static/media/KorenGila.jpg": "/MVGDC/static/media/KorenGila.ffcb8e259f540b52f74b.jpg",
-    "static/media/bootstrap-icons.woff?": "/MVGDC/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
-    "static/media/logo.png": "/MVGDC/static/media/logo.021bbe93fa767930e80a.png",
-    "static/media/bootstrap-icons.woff2?": "/MVGDC/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
-    "static/media/text-logo.png": "/MVGDC/static/media/text-logo.53491aad36eaf3ed6ae4.png",
-    "static/media/burger.png": "/MVGDC/static/media/burger.30796285292acaba1116.png",
-    "static/media/codeImage.webp": "/MVGDC/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
-    "index.html": "/MVGDC/index.html",
-    "main.836be239.css.map": "/MVGDC/static/css/main.836be239.css.map",
-    "main.718d4f4e.js.map": "/MVGDC/static/js/main.718d4f4e.js.map"
+    "main.css": "/MVGDC-Website/static/css/main.77dce47d.css",
+    "main.js": "/MVGDC-Website/static/js/main.248323d3.js",
+    "static/media/home.png": "/MVGDC-Website/static/media/home.95ffb5acf7001b57caeb.png",
+    "static/media/BhavanBalusu.jpg": "/MVGDC-Website/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
+    "static/media/RohithMuthukumar.jpg": "/MVGDC-Website/static/media/RohithMuthukumar.a9bc040808b019527dc0.jpg",
+    "static/media/BrandonXu.jpg": "/MVGDC-Website/static/media/BrandonXu.c3364899513c96318603.jpg",
+    "static/media/KorenGila.jpg": "/MVGDC-Website/static/media/KorenGila.ffcb8e259f540b52f74b.jpg",
+    "static/media/bootstrap-icons.woff?": "/MVGDC-Website/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/logo.png": "/MVGDC-Website/static/media/logo.021bbe93fa767930e80a.png",
+    "static/media/bootstrap-icons.woff2?": "/MVGDC-Website/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/text-logo.png": "/MVGDC-Website/static/media/text-logo.53491aad36eaf3ed6ae4.png",
+    "static/media/burger.png": "/MVGDC-Website/static/media/burger.30796285292acaba1116.png",
+    "static/media/codeImage.webp": "/MVGDC-Website/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
+    "index.html": "/MVGDC-Website/index.html",
+    "main.77dce47d.css.map": "/MVGDC-Website/static/css/main.77dce47d.css.map",
+    "main.248323d3.js.map": "/MVGDC-Website/static/js/main.248323d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.836be239.css",
-    "static/js/main.718d4f4e.js"
+    "static/css/main.77dce47d.css",
+    "static/js/main.248323d3.js"
   ]
 }
