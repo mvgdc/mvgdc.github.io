@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mvgdc/static/css/main.d230ff7f.css",
-    "main.js": "/mvgdc/static/js/main.cae646f7.js",
-    "static/media/home.png": "/mvgdc/static/media/home.95ffb5acf7001b57caeb.png",
-    "static/media/BhavanBalusu.jpg": "/mvgdc/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
-    "static/media/RohithMuthukumar.jpg": "/mvgdc/static/media/RohithMuthukumar.a9bc040808b019527dc0.jpg",
-    "static/media/BrandonXu.jpg": "/mvgdc/static/media/BrandonXu.c3364899513c96318603.jpg",
-    "static/media/KorenGila.jpg": "/mvgdc/static/media/KorenGila.ffcb8e259f540b52f74b.jpg",
-    "static/media/bootstrap-icons.woff?": "/mvgdc/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
-    "static/media/logo.png": "/mvgdc/static/media/logo.021bbe93fa767930e80a.png",
-    "static/media/bootstrap-icons.woff2?": "/mvgdc/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
-    "static/media/text-logo.png": "/mvgdc/static/media/text-logo.53491aad36eaf3ed6ae4.png",
-    "static/media/burger.png": "/mvgdc/static/media/burger.30796285292acaba1116.png",
-    "static/media/codeImage.webp": "/mvgdc/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
-    "index.html": "/mvgdc/index.html",
-    "main.d230ff7f.css.map": "/mvgdc/static/css/main.d230ff7f.css.map",
-    "main.cae646f7.js.map": "/mvgdc/static/js/main.cae646f7.js.map"
+    "main.css": "/static/css/main.699eda40.css",
+    "main.js": "/static/js/main.c59d4181.js",
+    "static/media/home.png": "/static/media/home.95ffb5acf7001b57caeb.png",
+    "static/media/BhavanBalusu.jpg": "/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
+    "static/media/RohithMuthukumar.jpg": "/static/media/RohithMuthukumar.a9bc040808b019527dc0.jpg",
+    "static/media/BrandonXu.jpg": "/static/media/BrandonXu.c3364899513c96318603.jpg",
+    "static/media/KorenGila.jpg": "/static/media/KorenGila.ffcb8e259f540b52f74b.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/logo.png": "/static/media/logo.021bbe93fa767930e80a.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/text-logo.png": "/static/media/text-logo.53491aad36eaf3ed6ae4.png",
+    "static/media/burger.png": "/static/media/burger.30796285292acaba1116.png",
+    "static/media/codeImage.webp": "/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
+    "index.html": "/index.html",
+    "main.699eda40.css.map": "/static/css/main.699eda40.css.map",
+    "main.c59d4181.js.map": "/static/js/main.c59d4181.js.map"
   },
   "entrypoints": [
-    "static/css/main.d230ff7f.css",
-    "static/js/main.cae646f7.js"
+    "static/css/main.699eda40.css",
+    "static/js/main.c59d4181.js"
   ]
 }
