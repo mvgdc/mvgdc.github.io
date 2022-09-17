@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1909411.css",
+    "main.css": "/static/css/main.66aa7c0a.css",
     "main.js": "/static/js/main.8b8a76b0.js",
     "static/media/home.png": "/static/media/home.95ffb5acf7001b57caeb.png",
     "static/media/BhavanBalusu.jpg": "/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
@@ -14,11 +14,11 @@
     "static/media/burger.png": "/static/media/burger.30796285292acaba1116.png",
     "static/media/codeImage.webp": "/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
     "index.html": "/index.html",
-    "main.d1909411.css.map": "/static/css/main.d1909411.css.map",
+    "main.66aa7c0a.css.map": "/static/css/main.66aa7c0a.css.map",
     "main.8b8a76b0.js.map": "/static/js/main.8b8a76b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1909411.css",
+    "static/css/main.66aa7c0a.css",
     "static/js/main.8b8a76b0.js"
   ]
 }
