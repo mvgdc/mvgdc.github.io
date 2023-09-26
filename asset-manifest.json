@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.78df27d3.css",
-    "main.js": "/static/js/main.0d27a02a.js",
+    "main.css": "/static/css/main.1102fe88.css",
+    "main.js": "/static/js/main.8376dcc6.js",
     "static/media/home.png": "/static/media/home.95ffb5acf7001b57caeb.png",
-    "static/media/BhavanBalusu.jpg": "/static/media/BhavanBalusu.5b923eda7fb6df904298.jpg",
     "static/media/RohithMuthukumar.jpg": "/static/media/RohithMuthukumar.a9bc040808b019527dc0.jpg",
     "static/media/BrandonXu.jpg": "/static/media/BrandonXu.c3364899513c96318603.jpg",
     "static/media/KorenGila.jpg": "/static/media/KorenGila.ffcb8e259f540b52f74b.jpg",
@@ -11,14 +10,16 @@
     "static/media/logo.png": "/static/media/logo.021bbe93fa767930e80a.png",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "static/media/text-logo.png": "/static/media/text-logo.53491aad36eaf3ed6ae4.png",
+    "static/media/BhavanBalusu.jpg": "/static/media/BhavanBalusu.fb66091abc391d91c2a9.jpg",
     "static/media/burger.png": "/static/media/burger.30796285292acaba1116.png",
+    "static/media/Resources.jpeg": "/static/media/Resources.4cce4f0cc4380ff203cf.jpeg",
     "static/media/codeImage.webp": "/static/media/codeImage.cb30eb14ce131f4dc85f.webp",
     "index.html": "/index.html",
-    "main.78df27d3.css.map": "/static/css/main.78df27d3.css.map",
-    "main.0d27a02a.js.map": "/static/js/main.0d27a02a.js.map"
+    "main.1102fe88.css.map": "/static/css/main.1102fe88.css.map",
+    "main.8376dcc6.js.map": "/static/js/main.8376dcc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.78df27d3.css",
-    "static/js/main.0d27a02a.js"
+    "static/css/main.1102fe88.css",
+    "static/js/main.8376dcc6.js"
   ]
 }
