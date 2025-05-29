@@ -1,0 +1,96 @@
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+.logo {
+    margin: 10px;
+}
+
+/* .site-name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    text-align: center;
+}
+
+.site-name h1 {
+    font-family: 'Andale Mono', monospace;
+    font-weight: 500;
+    font-size: 120px;
+    text-shadow: 0 0 10px black;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    line-height: 70px;
+    letter-spacing: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.site-name h2 {
+    font-family: 'American Typewriter', serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    text-align: center;
+} */
+
+body {
+    background-color: rgb(29, 36, 69);
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    list-style-type: none;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    width: 92vw;
+}
+
+ul li {
+    margin: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-image: url('bg.png');
+    background-size: 100% 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+}
