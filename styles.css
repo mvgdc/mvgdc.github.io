@@ -28,45 +28,53 @@ section {
     justify-content: center;
     width: 100%;
     flex:1;
-    padding: 10px;
+    padding: 0.7vw;
     max-width: 100%;
     overflow: hidden;
     min-height: 90vh; 
 }
 
 h1 {
-    font-size: 90px;
+    font-size: 7vw;
     font-family: 'Andale Mono', monospace;
     text-align: center;
-    margin: 20px;
-    letter-spacing: 10px;
-    margin: 50px;
+    letter-spacing: 1vw;
+    margin: 5vw;
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 4vw;
     font-family: 'Andale Mono', monospace;
     text-align: center;
-    margin: 20px;
+    margin: 2vw;
     letter-spacing: 4px;
-    margin: 20px;
     max-width: 90%;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 1.8vw;
     font-family: 'Andale Mono', monospace;
     text-align: center;
-    margin: 20px;
+    margin: 2vw;
     letter-spacing: 2px;
-    margin: 10px;
+    margin: 1vw;
+    max-width: 60%;
+    color: #DDD;
+}
+
+h4 {
+    font-size: 1.5vw;
+    font-family: 'Andale Mono', monospace;
+    text-align: center;
+    margin: 2vw;
+    letter-spacing: 2px;
+    margin: 1vw;
     max-width: 60%;
     color: #DDD;
 }
 
 ul {
     list-style-type: none;
-    margin: 20px;
     display: flex;
     flex-direction: row;
     justify-content: right;
@@ -74,12 +82,12 @@ ul {
 }
 
 ul li {
-    margin: 18px;
+    margin: 1vw;
 }
 
 ul li a {
     text-decoration: none;
-    font-size: 22px;
+    font-size: 1vw;
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
