@@ -31,7 +31,24 @@ section {
     padding: 0.7vw;
     max-width: 100%;
     overflow: hidden;
-    min-height: 90vh; 
+    min-height: 90vh;
+}
+
+button {
+    background-color: rgb(111, 129, 210);
+    font-family: 'Andale Mono', monospace;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3vw;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 5vw;
+    width: 30vw;
+    margin: 2vw;
 }
 
 h1 {
